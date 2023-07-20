@@ -12,6 +12,7 @@
 .settings/
 .idea/
 log/
+example/net/log/
 
 # Test binary, built with `go test -c`
 *.test

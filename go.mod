@@ -3,7 +3,7 @@ module github.com/EternalVow/easyws
 go 1.19
 
 require (
-	github.com/EternalVow/easynet v0.0.0-20230720155704-cf0769a3b209
+	github.com/EternalVow/easynet v0.0.0-20230720161816-02b106ce910f
 	github.com/gobwas/httphead v0.1.0
 )
 
