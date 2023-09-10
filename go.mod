@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/EternalVow/easynet v0.0.0-20230910155802-bc856b635b21
-	github.com/gobwas/httphead v0.0.0-20180130184737-2c6c146eadee
+	github.com/gobwas/httphead v0.1.0
 )
 
 require (
